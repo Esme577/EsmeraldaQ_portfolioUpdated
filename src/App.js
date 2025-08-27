@@ -1,5 +1,5 @@
 import './App.css';
-import supabase from './supabase-client'
+import {supabase} from './supabase-client'
 import About from './components/About';
 import Contact from './components/Contact';
 import Home from './components/Home';
