@@ -26,7 +26,7 @@ const Works = () => {
               <p className='text-center'>Project is on flexpanel and each panel has information on different flowers.</p>
               {/* Action buttons */}
               <div className='pt-8 text-center'>
-                <a href='https://esmeraldaqflexpanelgallery.netlify.app/'><button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Netlify Demo Link</button></a>
+                <a href='https://esmeralda-q-flex-panel-gallery-rsmz-do6kr9jcx-esme577s-projects.vercel.app/'><button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Netlify Demo Link</button></a>
                 <a href='https://github.com/Esme577/EsmeraldaQ_FlexPanelGallery'><button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>GitHubLink</button></a>
               </div>
             </div>
